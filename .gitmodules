@@ -1,0 +1,8 @@
+[submodule "libasm"]
+	path = libasm
+	url = https://github.com/jmcheon/libasm
+	branch = main
+[submodule "ft_linux"]
+	path = ft_linux
+	url = https://github.com/jmcheon/ft_linux
+	branch = main
